@@ -1,5 +1,6 @@
 # 💫 About Me:
-👋Hi, I'm Amulya 💻 Information Science graduate passionate about software engineering<br>☕ Java developer with strong problem-solving skills<br>🚀 Love building real-world applications<br>📚 Always learning, always improving<br>🎨 Fun fact: I love gardening 🌿 and painting 🖌️
+👋Hi, I'm Amulya 
+💻 Information Science graduate passionate about software engineering<br>☕ Java developer with strong problem-solving skills<br>🚀 Love building real-world applications<br>📚 Always learning, always improving<br>🎨 Fun fact: I love gardening 🌿 and painting 🖌️
 
 
 ## 🌐 Socials:
